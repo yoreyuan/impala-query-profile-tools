@@ -1,0 +1,44 @@
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+*.tgz
+**/target/
+**/*.iml
+
+.*.swp
+.DS_Store
+.git
+.gz
+.hg
+.svn
+.mvn/wrapper/*.jar
+.settings
+.tmp
+.vim
+.zip
+
+HELP.md
+build/
+dist/
+logs/*
+target/
+yarn.lock
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
